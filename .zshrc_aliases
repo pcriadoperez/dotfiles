@@ -1,0 +1,4 @@
+alias cat=bat
+alias ls="eza --color=always --long --git --icons=always --no-time --no-user --no-permissions"
+alias cd="z"
+alias vim=nvim
